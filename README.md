@@ -1,5 +1,8 @@
 # contest-API
 
+## Technology used
+    Python, Flask-restful, Web scrapping using BeautifulSoup (bs4)
+
 ## Instructions:
 
 ### Prerequisites:
