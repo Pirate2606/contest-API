@@ -21,3 +21,5 @@
     4. Install the requirements: pip install -r requirements.txt
     5. Run the server: python3 app.py
     6. Use Postman to fetch results from API using following endpoints:
+        -> Get all the contests: http://127.0.0.1:5000/contests
+        -> Get the number of contests: http://127.0.0.1:5000/contests/count
